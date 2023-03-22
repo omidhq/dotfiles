@@ -1,0 +1,1 @@
+function web() { npx live-server . --quiet; }
