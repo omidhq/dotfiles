@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# run IntelliJ IDEA from the shell
+
+open -na "IntelliJ IDEA.app" --args "$@"
