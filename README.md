@@ -1,10 +1,8 @@
-This is my version of dotfiles forked from the famed [Holman's [.dotfiles](https://github.com/holman/dotfiles).
+This is my version of dotfiles based on Zach Holman's famous [dotfiles](https://github.com/holman/dotfiles).
 
 _Customized_ for my use with a bit of tweak in some of the bash scripts I _borrowed_ from my mentor/legend [Marcusoftnet/dotfiles](https://github.com/marcusoftnet/dotfiles).
 
-Apart from that, almost everything else is pretty much the same as Holman's original repo.
-
-**Why forked?** Holman's post on "[dotfiles are meant to be forked](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) was reasonable enough. You can do the same.
+Apart from Marcus' scripts, and a long list of casks and formulas in the brewfile for my use, almost everything else is pretty much the same as Holman's original repo.
 
 ## What are dotfiles
 
